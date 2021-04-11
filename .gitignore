@@ -3,3 +3,8 @@
 ################################################################################
 
 /MarsRover.Test/obj
+/MarsRover.Test/bin/Debug/netcoreapp3.1
+/MarsRover.Core/obj
+/MarsRover.Core/bin/Debug/netcoreapp3.1
+/MarsRover/obj
+/MarsRover/bin/Debug/netcoreapp3.1
